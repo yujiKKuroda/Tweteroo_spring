@@ -17,7 +17,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 @Entity
-@Table(name = "tb_users")
+@Table(name = "tb_tweets")
 public class TweetModel {
 
   @Id
